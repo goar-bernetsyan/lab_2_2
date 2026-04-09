@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1wEmok7Am8QvCDELcaVfCcCXxLftgPdOz/view?usp=drive
    
     где вместо path вставьте полный путь к своему изображению (C:\...\image.jpg)
    
-2. Используя Postman
+2. Используя Postman (нужно будет установить Postman Desktop Agent)
    
     Откройте Postman.
    
